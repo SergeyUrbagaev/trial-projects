@@ -365,11 +365,7 @@ p:last-child {
 	min-height: 92px;
 	padding: 13px 0px 39px 0px;
 	}
-
-.bottom {
-
-}
-		
+	
 .bottom__citi {
 	background-image: url("../img/image8.png");
 	background-position: 0 0;
@@ -470,33 +466,6 @@ p:last-child {
 	max-width: 141px;
 	line-height: 15.5px;
 }
-
-.bottom__inf-icons {
-}
-.button {
-}
-.form-content-text {
-}
-.inf-company-tittle {
-}
-.inf-company-text {
-}
-.inf-likes1 {
-}
-.inf-likes1-tittle {
-}
-.inf-likes2 {
-}
-.inf-likes3 {
-}
-.inf-contact-tittle {
-}
-.inf-contact-cont {
-}
-
-
-
-
 .footer {
 	background-color: #171819;
 	margin: 0px 0px 0px 0px;
